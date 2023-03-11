@@ -38,32 +38,32 @@ Hi, I'm Musarraf Raza
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
-<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
 
 </br>
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
 </br>
 
 ### 🗄️ Soft Skill's
 
 
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
-<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
 
 
 </br>
