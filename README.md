@@ -51,19 +51,19 @@ Hi, I'm Musarraf Raza
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/9464/9464677.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
 </br>
 
 ### 🗄️ Soft Skill's
 
 
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/3050/3050431.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/9262/9262113.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/9927/9927454.png"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/128/8589/8589629.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
+<code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
 
 
 </br>
