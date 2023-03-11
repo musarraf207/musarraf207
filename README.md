@@ -1,21 +1,16 @@
 
  <img width=50% align=right  title="Musarraf"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-### Hi 👋, I am Musarraf Raza
+Hi, I'm Musarraf Raza
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Technical+Support+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<!-- <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "100%" height= "400">  -->
-
-<!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
-
 <div>
-
 
  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 </br> </br>
-<!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
+ [![Followers](https://img.shields.io/github/followers/musarraf207)](#)
  [![Stars](https://img.shields.io/github/stars/musarraf207?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/musarraf207)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
@@ -37,7 +32,7 @@
 
  <!-- -------------------------------------------------------    Middle Section  ----------------------------------------------------------------------- -->
  
- <!-- <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /> -->
+ <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 
  ## Skills : 
 
