@@ -38,14 +38,11 @@ Hi, I'm Musarraf Raza
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="10%" src="[https://cdn-icons-png.flaticon.com/128/7910/7910820.png](https://cdn-icons-png.flaticon.com/128/7910/7910473.png)"></a></code> 
-<code><a href="#"><img width="10%" src="[https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)"></a></code>
-<code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
+<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
 <code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-
+<code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="#" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-
-
 <code><a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
 <code><a href="#"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
 <code><a href="#"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
@@ -82,5 +79,6 @@ Hi, I'm Musarraf Raza
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musarraf207&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=musarraf207&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
+
 
 
