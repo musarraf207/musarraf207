@@ -38,14 +38,14 @@ Hi, I'm Musarraf Raza
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
-<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
-<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
-<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
-<code><a href="#" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
-<code><a href="#"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
-<code><a href="#"><img alt="C++" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
+<code><a href="#"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
 
 </br>
 
