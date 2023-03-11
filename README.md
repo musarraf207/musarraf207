@@ -40,7 +40,7 @@ Hi, I'm Musarraf Raza
 
 <code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
 <code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
-<code><a href="#"><img width="10%" src=https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
+<code><a href="#"><img width="10%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
 <code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="#" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
