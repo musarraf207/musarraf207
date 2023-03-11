@@ -38,7 +38,7 @@ Hi, I'm Musarraf Raza
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="5%" src="[https://cdn-icons-png.flaticon.com/128/7910/7910820.png](https://cdn-icons-png.flaticon.com/128/7910/7910473.png)">OS</a></code> 
+<code><a href="#"><img width="10%" src="[https://cdn-icons-png.flaticon.com/128/7910/7910820.png](https://cdn-icons-png.flaticon.com/128/7910/7910473.png)"></a></code> 
 <code><a href="#"><img width="10%" src="[https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)"></a></code>
 <code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
