@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://musarraf207.github.io/">Musarraf's Portfolio</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf207/">LinkedIn</a>
 
 
 - 📨 Email ID : **musarraf207@gmail.com**
